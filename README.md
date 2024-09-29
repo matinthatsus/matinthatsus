@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @matinthatsus
 - 👀 I’m interested in ...manga and anime
 - 🌱 I’m currently learning ... germany
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me ur fav music
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... i hate lgbtq
 
 <!---
