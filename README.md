@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matinthatsus
-- 👀 I’m interested in ...manga and anime
-- 🌱 I’m currently learning ... germany
-- 📫 How to reach me ... send me ur fav music
-- ⚡ Fun fact: ... i hate lgbtq
+- 👋 Hi, I’m MAtin
+- 👀 I’m interested in anime and games
+- 🌱 I’m currently learning  germany
+- 📫 How to reach me ... text me in ig:wander_of_fate
+
 
 <!---
 matinthatsus/matinthatsus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
